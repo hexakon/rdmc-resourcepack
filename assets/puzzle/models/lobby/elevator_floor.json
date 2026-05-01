@@ -1,0 +1,52 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"1": "puzzle:block/elevator_floor",
+		"3": "puzzle:lobby/elevator_floor",
+		"particle": "puzzle:lobby/elevator_floor"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, -16],
+			"to": [32, 0.01, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-16, 0, -16]},
+			"faces": {
+				"north": {"uv": [6, 0, 12, 0.125], "texture": "#1"},
+				"east": {"uv": [6, 0.125, 12, 0.25], "texture": "#1"},
+				"south": {"uv": [6, 0.25, 12, 0.375], "texture": "#1"},
+				"west": {"uv": [6, 0.375, 12, 0.5], "texture": "#1"},
+				"up": {"uv": [6, 6, 0, 0], "texture": "#1"},
+				"down": {"uv": [6, 6, 0, 12], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-16, -1, -16],
+			"to": [32, -0.99, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-16, -1, -16]},
+			"faces": {
+				"north": {"uv": [6, 0, 12, 0.125], "texture": "#1"},
+				"east": {"uv": [6, 0.125, 12, 0.25], "texture": "#1"},
+				"south": {"uv": [6, 0.25, 12, 0.375], "texture": "#1"},
+				"west": {"uv": [6, 0.375, 12, 0.5], "texture": "#3"},
+				"up": {"uv": [12.375, 16, 6.375, 10], "texture": "#1"},
+				"down": {"uv": [6, 6, 0, 12], "texture": "#1"}
+			}
+		},
+		{
+			"from": [-16, -0.5, -16],
+			"to": [32, -0.49, 32],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-16, -0.5, -16]},
+			"faces": {
+				"north": {"uv": [6, 0, 12, 0.125], "texture": "#1"},
+				"east": {"uv": [6, 0.125, 12, 0.25], "texture": "#1"},
+				"south": {"uv": [6, 0.25, 12, 0.375], "texture": "#1"},
+				"west": {"uv": [6, 0.375, 12, 0.5], "texture": "#3"},
+				"up": {"uv": [16, 6, 10, 0], "texture": "#1"},
+				"down": {"uv": [6, 6, 0, 12], "texture": "#1"}
+			}
+		}
+	],
+	"display": {}
+}
