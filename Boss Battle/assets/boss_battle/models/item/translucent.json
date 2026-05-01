@@ -1,0 +1,16 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "boss_battle:item/translucent",
+		"layer1": "minecraft:item/leather_chestplate_overlay"
+	},
+	"display": {
+		"head": {
+			"scale": [
+				1,
+				1,
+				4
+			]
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "boss_battle:item/translucent",
+		"tints": [
+			{
+				"type": "minecraft:dye",
+				"default": 14732749
+			}
+		]
+	}
+}
