@@ -1,0 +1,17 @@
+{
+  "puz.elevator.arrive": {
+    "sounds": [
+      "puzzle:lobby/elevator_arrival"
+    ]
+  },
+  "puz.elevator.close": {
+    "sounds": [
+      "puzzle:lobby/elevator_close"
+    ]
+  },
+  "puz.elevator.open": {
+    "sounds": [
+      "puzzle:lobby/elevator_open"
+    ]
+  }
+}
