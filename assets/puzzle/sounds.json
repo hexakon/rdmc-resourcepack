@@ -13,5 +13,20 @@
     "sounds": [
       "puzzle:lobby/elevator_open"
     ]
+  },
+  "puz.elevator.riding": {
+    "sounds": [
+      "puzzle:lobby/elevator_riding"
+    ]
+  },
+  "puz.elevator.presence": {
+    "sounds": [
+      "puzzle:lobby/elevator_presence"
+    ]
+  },
+  "puz.elevator.land": {
+    "sounds": [
+      "puzzle:lobby/elevator_land"
+    ]
   }
 }
