@@ -1,0 +1,6 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "labyrinth:item/fake_labyrinth_wool"
+	}
+}
