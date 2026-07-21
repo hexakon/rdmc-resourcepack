@@ -1,0 +1,16 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "labyrinth:item/recolourable_flowering_azalea_leaves",
+		"tints": [
+			{
+				"type": "minecraft:dye",
+				"default": 0
+			},
+			{
+				"type": "minecraft:constant",
+				"value": 5515047
+			}
+		]
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"model": {
+		"type": "minecraft:model",
+		"model": "labyrinth:item/recolourable_bush",
+		"tints": [
+			{
+				"type": "minecraft:dye",
+				"default": 0
+			},
+			{
+				"type": "minecraft:constant",
+				"value": 5515047
+			}
+		]
+	}
+}

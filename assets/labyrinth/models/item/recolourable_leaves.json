@@ -1,0 +1,22 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made by Miffen Kop!",
+	"textures": {
+		"0": "block/mangrove_leaves",
+		"particle": "block/mangrove_leaves"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 1],
+			"to": [15, 8, 15],
+			"faces": {
+				"north": {"uv": [1, 7, 15, 15], "texture": "#0", "tintindex": 0},
+				"east": {"uv": [1, 7, 15, 15], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [1, 7, 15, 15], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [1, 7, 15, 15], "texture": "#0", "tintindex": 0},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#0", "tintindex": 0},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#0", "tintindex": 0}
+			}
+		}
+	]
+}
